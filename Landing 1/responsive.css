@@ -1,0 +1,48 @@
+@media( max-width:1199px){
+    .site-1 select {
+        width: 100px;
+    }
+    .site-2 {
+        margin-left: 30px;
+        width: 101px;
+    }
+    .site-2 h6 {
+        font-size: 16px;
+    }
+    .site-2 select {
+        width: 100px;
+    }
+    .site-3 {
+        width: 150px;
+        text-align: left;
+        margin-left: 46px;
+    }
+    .site-3-input input {
+        margin-left: 0px;
+    }
+}
+
+
+@media (max-width:991px){
+    .right-side{
+        width: 100%;
+        box-shadow: -2px 2px 6px #b3b3b3;
+        margin-left: 60px;
+    }
+    .btn-primary {
+        width: 65px;
+        font-size: 15px;
+    }
+    .btn .third-btn {
+        width: 190px;
+        padding: 12px;
+    }
+    .top-header h5 {
+        text-align: center;
+    }
+    .fr-left input {
+        width: 75%;
+        margin: 5px 12px;
+       
+    }
+}
